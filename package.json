@@ -1,5 +1,6 @@
 {
   "name": "react-calculator",
+  "homepage": "https://sandergarcia.github.io/projetos//react-calculator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
